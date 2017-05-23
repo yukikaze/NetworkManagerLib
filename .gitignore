@@ -34,3 +34,19 @@ Thumbs.db
 
 /captures
 .externalNativeBuild
+gradlew
+app/proguard-rules.pro
+app/src/androidTest/java/com/qware/library/networkmanagerlib/ExampleInstrumentedTest.java
+app/src/main/res/mipmap-hdpi/ic_launcher.png
+app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+app/src/main/res/mipmap-mdpi/ic_launcher.png
+app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+app/src/main/res/mipmap-xhdpi/ic_launcher.png
+app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+app/src/test/java/com/qware/library/networkmanagerlib/ExampleUnitTest.java
+gradle/wrapper/gradle-wrapper.jar
+gradlew.bat
